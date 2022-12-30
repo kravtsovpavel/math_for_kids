@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/math_for_kids/static/css/main.be4742ef.css",
+    "main.js": "/math_for_kids/static/js/main.bb20283a.js",
+    "index.html": "/math_for_kids/index.html",
+    "main.be4742ef.css.map": "/math_for_kids/static/css/main.be4742ef.css.map",
+    "main.bb20283a.js.map": "/math_for_kids/static/js/main.bb20283a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be4742ef.css",
+    "static/js/main.bb20283a.js"
+  ]
+}
