@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/math_for_kids/static/css/main.4fbd557d.css",
+    "main.css": "/math_for_kids/static/css/main.6be48bd3.css",
     "main.js": "/math_for_kids/static/js/main.006bdd98.js",
     "index.html": "/math_for_kids/index.html",
-    "main.4fbd557d.css.map": "/math_for_kids/static/css/main.4fbd557d.css.map",
+    "main.6be48bd3.css.map": "/math_for_kids/static/css/main.6be48bd3.css.map",
     "main.006bdd98.js.map": "/math_for_kids/static/js/main.006bdd98.js.map"
   },
   "entrypoints": [
-    "static/css/main.4fbd557d.css",
+    "static/css/main.6be48bd3.css",
     "static/js/main.006bdd98.js"
   ]
 }
