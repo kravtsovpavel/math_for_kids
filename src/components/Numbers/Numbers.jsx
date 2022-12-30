@@ -18,8 +18,8 @@ function Numbers() {
         <input className='input' type="number" onChange={e => setCount(e.target.value)} />
         <div className='result'>{count}</div>
         <div className='buttons'>
-            <button className="minus" onClick={onClickMinus} >- 1</button>
-            <button className="plus" onClick={onClickPlus}>+ 1</button>
+            <button className="minus" onClick={onClickMinus} > - 1</button>
+            <button className="plus" onClick={onClickPlus}> + 1</button>
         </div>
     </div>
     )

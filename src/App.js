@@ -1,7 +1,7 @@
 import './App.css';
 import Numbers from './components/Numbers/Numbers';
 import Addition from './components/Addition/Addition';
-import Subtraction from './components/Subtraction/Subtraction';
+import Difference from './components/Difference/Difference';
 
 function App() {
 
@@ -10,7 +10,7 @@ function App() {
       <div className='wrapper'>
         <Numbers />
         <Addition />
-        <Subtraction />
+        <Difference />
       </div>
     </div>
   );
