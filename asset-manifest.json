@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "/math_for_kids/static/css/main.babea0f6.css",
+    "main.css": "/math_for_kids/static/css/main.5286221e.css",
     "main.js": "/math_for_kids/static/js/main.006bdd98.js",
+    "static/media/bg2.jpg": "/math_for_kids/static/media/bg2.49280f34e8427538fae2.jpg",
+    "static/media/bg3.jpg": "/math_for_kids/static/media/bg3.96daf744882081581967.jpg",
+    "static/media/bg1.jpg": "/math_for_kids/static/media/bg1.8df82cf82c27160a1d91.jpg",
     "index.html": "/math_for_kids/index.html",
-    "main.babea0f6.css.map": "/math_for_kids/static/css/main.babea0f6.css.map",
+    "main.5286221e.css.map": "/math_for_kids/static/css/main.5286221e.css.map",
     "main.006bdd98.js.map": "/math_for_kids/static/js/main.006bdd98.js.map"
   },
   "entrypoints": [
-    "static/css/main.babea0f6.css",
+    "static/css/main.5286221e.css",
     "static/js/main.006bdd98.js"
   ]
 }
