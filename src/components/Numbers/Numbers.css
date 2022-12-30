@@ -1,6 +1,10 @@
 .numbers {
     padding: 40px 0;
-    background-color: rgba(199, 143, 243, 0.48);;
+    /* background-color: rgba(199, 143, 243, 0.48); */
+    background-image: url('../../../public/bg3.jpg');
+    background-size: no-repeat;
+    background-position: center;
+    background-size: cover;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     margin-bottom: 5px;
     border-radius: 30px;
@@ -13,7 +17,7 @@
 }
 
 .minus {
-    background-color: rgba(245, 84, 84, 0.48);
+    background-color: rgba(255, 34, 34, 0.85);
     border: none;
     border-radius: 10px;
     padding:  0 15px;
@@ -25,12 +29,12 @@
 
 .minus:hover {
     cursor: pointer;
-    background-color: rgba(255, 0, 0, 0.48);
+    background-color: rgb(255, 0, 0);
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
 .plus {
-    background-color: rgba(78, 226, 146, 0.48);
+    background-color: rgba(46, 255, 88, 0.85);
     border: none;
     border-radius: 10px;
     padding:  0 10px;
@@ -42,6 +46,6 @@
 
 .plus:hover {
     cursor: pointer;
-    background-color: rgba(0, 155, 72, 0.48);
+    background-color: rgb(0, 188, 38);
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
